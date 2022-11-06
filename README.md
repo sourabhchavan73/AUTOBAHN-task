@@ -1,5 +1,7 @@
 # AUTOBAHN-task
 
+### `to clone the project`
+git clone 
 
 ## to Run this project
 
